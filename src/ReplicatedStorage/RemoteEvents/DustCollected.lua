@@ -1,0 +1,2 @@
+-- Placeholder for RemoteEvent: DustCollected
+-- In Roblox Studio, create a RemoteEvent named 'DustCollected' in ReplicatedStorage/RemoteEvents

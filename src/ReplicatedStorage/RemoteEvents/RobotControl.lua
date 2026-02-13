@@ -1,0 +1,2 @@
+-- Placeholder for RemoteEvent: RobotControl
+-- In Roblox Studio, create a RemoteEvent named 'RobotControl' in ReplicatedStorage/RemoteEvents
